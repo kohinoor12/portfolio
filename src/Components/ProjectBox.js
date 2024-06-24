@@ -5,7 +5,7 @@ import { CgFileDocument } from "react-icons/cg";
 
 const ProjectBox = ({ projectPhoto, projectName }) => {
   const desc = {
-    "Calories TrackerDesc": "A website that shows you over seven specialized yoga postures for specific diseases or health problems. This was a group project made in a team of two for a 36-hour-long online hackathon named Hackodisha 2.0.",
+    "Calories TrackerDesc": "A calorie tracker app built with Django and Ninja API, enabling users to log meals, track calories, and monitor progress. This project showcases efficient data processing and a user-friendly interface, highlighting my web development and API integration skills.",
     "Calories TrackerGithub": "https://github.com/kohinoor12/caloriecounter.git",
     "Calories TrackerWebsite": "https://github.com/kohinoor12/caloriecounter.git/",
 
