@@ -24,23 +24,23 @@ const About = () => {
           <br />
           <h1 className='AboutTextHeading' >What <b>i do</b></h1>
           <p>
-          As a full stack developer, I handle both the front-end and back-end aspects of web development. Here’s a glimpse of my skill set:
-          <br />
-          <br />
-          <ul>
-            <li>
-              <b>Front-End Development:</b> Proficient in <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and popular frameworks such as <b>React</b>. I strive to create intuitive and responsive user interfaces.
-            </li>
-            <li>
-            <b>Back-End Development:</b> Experienced in server-side technologies like <b></b>Node.js, <b>Python(including Django and Flask frameworks)</b>, and databases such as <b>MongoDB</b> and <b>SQL</b>. I ensure that the server, application, and database communicate seamlessly.
-            </li>
-            <li>
-            <b>Full Stack Integration:</b> Skilled in integrating front-end and back-end components to deliver cohesive and fully functional web applications.
-            </li>
-            <li>
-            <b>DevOps & Tools:</b> Familiar with version control <b>(Git)</b>, deployment processes, and continuous integration/continuous deployment <b>(CI/CD)</b> practices.
-            </li>
-          </ul>
+            As a full stack developer, I handle both the front-end and back-end aspects of web development. Here’s a glimpse of my skill set:
+            <br />
+            <br />
+            <ul>
+              <li>
+                <b>Front-End Development:</b> Proficient in <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and popular frameworks such as <b>React</b>. I strive to create intuitive and responsive user interfaces.
+              </li>
+              <li>
+                <b>Back-End Development:</b> Experienced in server-side technologies like <b></b>Node.js, <b>Python(including Django and Flask frameworks)</b>, and databases such as <b>MongoDB</b> and <b>SQL</b>. I ensure that the server, application, and database communicate seamlessly.
+              </li>
+              <li>
+                <b>Full Stack Integration:</b> Skilled in integrating front-end and back-end components to deliver cohesive and fully functional web applications.
+              </li>
+              <li>
+                <b>DevOps & Tools:</b> Familiar with version control <b>(Git)</b>, deployment processes, and continuous integration/continuous deployment <b>(CI/CD)</b> practices.
+              </li>
+            </ul>
           </p>
           <br />
           <br />
@@ -87,6 +87,8 @@ const About = () => {
         <Skills skill='MySQL' />
         <Skills skill='Npm' />
         <Skills skill='Bootstrap' />
+        <Skills skill='HTML5' />
+        <Skills skill='CSS3' />
       </div>
 
       <h1 className='SkillsHeading'> <b>Tools</b> I Use</h1>

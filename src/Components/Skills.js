@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaReact, FaPython, FaGitAlt, FaGithub, FaNpm, FaFigma, FaBootstrap } from "react-icons/fa";
-import { DiNodejs, DiJavascript1, DiDjango} from "react-icons/di";
-import { SiExpress, SiMongodb, SiPostman, SiVercel, SiFlask, SiMysql } from "react-icons/si";
+import { DiNodejs, DiJavascript1, DiDjango } from "react-icons/di";
+import { SiExpress, SiMongodb, SiPostman, SiVercel, SiFlask, SiMysql, SiHtml5, SiCss3 } from "react-icons/si";
 
 const Skills = ({ skill }) => {
   const icon = {
@@ -21,6 +21,8 @@ const Skills = ({ skill }) => {
     Django: <DiDjango />,
     Flask: <SiFlask />,
     MySQL: <SiMysql />,
+    HTML5: <SiHtml5 />,
+    CSS3: <SiCss3 />,
   }
 
   return (
